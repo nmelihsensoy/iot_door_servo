@@ -1,8 +1,7 @@
 # iot_door_servo
-Esp8266 door servo and rfid reader.
+IoT Smart Door Lock and Rfid Reader
 
-##Features
-will be here soon...
+**_OTA Update, MQTT, Rfid Reader, Open Source, Easy to implement, Cheap_**
 
 ## Hardware
 * Wemos d1 mini (Esp8266)
