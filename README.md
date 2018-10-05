@@ -1,7 +1,7 @@
 # iot_door_servo
 IoT Smart Door Lock and Rfid Reader
 
-**_OTA Update, MQTT, Rfid Reader, Open Source, Easy to implement, Cheap_**
+**_OTA Update, Works with EU Cylinder ,MQTT, Rfid Reader, Open Source, Easy to implement, Cheap_**
 
 ## Hardware
 * Wemos d1 mini (Esp8266)
