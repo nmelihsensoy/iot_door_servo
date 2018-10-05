@@ -11,8 +11,8 @@ will be here soon...
 * Magnetic door switch(reed switch)
 * Relay module
 
-## Schematic
-will be here soon...
+## Schematics
+![Schematics](schematics.png)
 
 ## 3D Printed Case
 will be here soon...
